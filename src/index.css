@@ -8,4 +8,13 @@
   font-family: 'Poppins', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 14px;
+}
+
+* input {
+  font-size: 14px;
+}
+
+* input::placeholder {
+  opacity: 0.6;
 }
